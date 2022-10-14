@@ -1,6 +1,6 @@
 # Blades in the Dark System Reference Document
 
-This is the text version of the content found at https://bladesinthedark.com/. The text is available as both Markdown and HTML.
+This is an abbreviated text version of the content found at https://bladesinthedark.com - it is meant for running simple one shots set outside of the standard Duskvol universe.
 
 ## Licensing
 
