@@ -895,10 +895,10 @@ Medium length description of the character here. Include what kind of activities
 
 ### STARTING ACTIONS
 
-|   []()   |     |          |          |          |                  |
-| :------: | --- | :------: | :------: | :------: | :--------------- |
-| &#x25CF; |     | &#x25CF; | &#x25CB; | &#x25CB; | PRIMARY ACTION   |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | SECONDARY ACTION |
+|   []()   |          |          |          |                  |
+| :------: | :------: | :------: | :------: | :--------------- |
+| &#x25CF; | &#x25CF; | &#x25CB; | &#x25CB; | PRIMARY ACTION   |
+| &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | SECONDARY ACTION |
 
 ---
 
