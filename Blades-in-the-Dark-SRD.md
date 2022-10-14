@@ -290,18 +290,6 @@ The GM can make a clock for a time-sensitive mission, to represent the window of
 
 You can make a clock that can be filled *and* emptied by events, to represent a back-and-forth situation. You might make a "Revolution!" clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.
 
-## Long-term Project
-
-Some projects will take a long time. A basic long-term project (like tinkering up a new feature for a device) is eight segments. Truly long-term projects (like creating a new designer drug) can be two, three, or even four clocks, representing all the phases of development, testing, and final completion. Add or subtract clocks depending on the details of the situation and complexity of the project.
-
-A long-term project is a good catch-all for dealing with any unusual player goal, including things that circumvent or change elements of the mechanics or the setting.
-
-## Faction Clocks
-
-Each faction has a long-term goal. When the PCs have **downtime**, the GM ticks forward the faction clocks that they're interested in. In this way, the world around the PCs is dynamic and things happen that they're not directly connected to, changing the overall situation in the city and creating new opportunities and challenges.
-
-The PCs may also directly affect NPC faction clocks, based on the missions and scores they pull off. Discuss known faction projects that they might aid or interfere with, and also consider how a PC operation might affect the NPC clocks, whether the players intended it or not.
-
 # Action Roll
 
 When a player character does something challenging, we make an **action roll** to see how it turns out. An action is challenging if there's an obstacle to the PC's goal that's dangerous or troublesome in some way. We don't make an action roll unless the PC is put to the test. If their action is something that we'd expect them to simply accomplish, then we don't make an action roll.
@@ -463,7 +451,7 @@ Scale represents the number of opponents, size of an area covered, scope of infl
 
 When considering factors, effect level might be reduced below limited, resulting in **zero effect**—or increased beyond great, resulting in an **extreme effect**.
 
-If a PC special ability gives "+1 effect," it comes into play *after* the GM has assessed the effect level. For example, if you ended up with zero effect, the +1 effect bonus from your Cutter's **Bodyguard** ability would bump them up to limited effect.
+If a PC special ability gives "+1 effect," it comes into play *after* the GM has assessed the effect level. For example, if you ended up with zero effect, the +1 effect bonus from the **Bodyguard** ability would bump them up to limited effect.
 
 Also, remember that a PC can **push themselves** (take 2 stress) to get +1 effect on their action.
 
@@ -652,7 +640,7 @@ Other examples of fortune rolls:
 
 * The PCs instigate a war between two factions, then sit back and watch the fireworks. How does it turn out? Does either side dominate? Are they both made vulnerable by the conflict? Make a few fortune rolls to find out.
 * A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
-* The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled **Hunt** roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his "toughness" as a trait to see if he can possibly survive the attack. The roll is a **4/5**: the bullet misses his heart, but hits him in the lung—it's a mortal wound. He's on death's door, with only hours to live, unless his gang can get an expert physicker to him in time.
+* A PC stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled **Hunt** roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his "toughness" as a trait to see if he can possibly survive the attack. The roll is a **4/5**: the bullet misses his heart, but hits him in the lung—it's a mortal wound. He's on death's door, with only hours to live, unless his gang can get an expert physicker to him in time.
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew's **wanted level** counts as a major advantage for the inspectors.
 * The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs' favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew's lives. The GM isn't sure. How cold-hearted is this veteran hunter? She's stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for "human feelings" to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to **Consort**, **Sway**, or **Command** her to stand down.
 
@@ -804,7 +792,7 @@ Of course, you'll also have your specializations and skills, the qualities that 
 
 A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
 
-When you choose a playbook, you're choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **xp triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. The Cutter has special abilities related to combat, but that doesn't mean they're "the fighter" of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
+When you choose a playbook, you're choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **xp triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. Picking special abilities related to combat does not make you "the fighter" of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
 
 This is why we call them "playbooks" rather than "character classes" or "archetypes." You're selecting the set of initial action ratings and special abilities that your character has access to—but you're not defining their immutable essence or true nature. Your character will grow and change over time; who they become is part of the fun of playing the game.
 
@@ -856,7 +844,7 @@ Choose a name for your character from the sample list, or create your own. If yo
 
 ## Review your details
 
-Take a look at the details on your character sheet, especially the **experience triggers** for your playbook (like "Earn xp when you address a challenge with knowledge or arcane power," for example) and the **special items** available to a character of your type (like the Whisper's spirit mask, for example). You begin with access to all of the items on your sheet, so don't worry about picking specific things—you'll decide what your character is carrying later on, when you're on the job.
+Take a look at the details on your character sheet, especially the **experience triggers** for your playbook (like "Earn xp when you address a challenge with knowledge or arcane power," for example). You begin with access to all of the items on your sheet, so don't worry about picking specific things—you'll decide what your character is carrying later on, when you're on the job.
 
 That's it! Your character is ready for play. When you start the first session, the GM will ask you some questions about who you are, your outlook, or some past events. If you don't know the answers, make some up. Or ask the other players for ideas.
 
@@ -1146,7 +1134,7 @@ A score is a single operation with a particular goal: *burgle a Lord's manor, as
 
 * A **criminal activity**, determined by your crew type. An assassination, burglary, illicit vice deal, etc.
 * Seizing a **claim** that you choose from your crew's **claim map**. Claims help your crew grow and develop.
-* A **special mission** or goal determined by the players (like getting a rare artifact to empower one of the Whisper's rituals).
+* A **special mission** or goal determined by the players (like getting a rare artifact to empower an arcane rituals).
 
 A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. *Play to find out what happens!* A score doesn't need to fill one session of play every time. Let it be however long it is.
 
@@ -1246,9 +1234,9 @@ The rules don't distinguish between actions performed in the present moment and 
 
 The GM sets a **stress cost** when you activate a flashback action.
 
-* **0** **Stress**: An ordinary action for which you had easy opportunity. *The Cutter ***Consorted*** with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
-* **1** **Stress**: A complex action or unlikely opportunity. *The Hound ***Finessed** his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
-* **2** **(or more) Stress**: An elaborate action that involved special opportunities or contingencies. *The Whisper has already **Studied** the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
+* **0** **Stress**: An ordinary action for which you had easy opportunity. *The enforcer ***Consorted*** with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
+* **1** **Stress**: A complex action or unlikely opportunity. *The hitman ***Finessed** his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
+* **2** **(or more) Stress**: An elaborate action that involved special opportunities or contingencies. *The palm reader has already **Studied** the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
 
 After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there's some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won't call for a roll at all because you can just pay the stress and it's accomplished.
 
