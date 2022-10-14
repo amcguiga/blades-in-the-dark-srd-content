@@ -623,7 +623,7 @@ The fortune roll is a tool the GM can use to disclaim decision making. You use a
 
 **When an outcome is uncertain**, but no other roll applies to the situation at hand.
 
-> While pilfering the workshop of an alchemist, Cross is possessed by a vengeful ghost. As control of his body slips away, Cross grabs a random potion bottle and drinks it down. Will the arcane concoction have an effect on the spirit? Will it poison Nock to death? Who knows? The GM makes a fortune roll to see how it turns out.
+> While pilfering the workshop of an alchemist, Cross is possessed by a vengeful ghost. As control of his body slips away, Cross grabs a random bottle and drinks it down. Will the arcane concoction have an effect on the spirit? Will it poison Nock to death? Who knows? The GM makes a fortune roll to see how it turns out.
 
 When you make a fortune roll you may assess **any trait rating** to determine the dice pool of the roll.
 
@@ -642,7 +642,7 @@ Other examples of fortune rolls:
 * A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
 * A PC stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled **Hunt** roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his "toughness" as a trait to see if he can possibly survive the attack. The roll is a **4/5**: the bullet misses his heart, but hits him in the lung—it's a mortal wound. He's on death's door, with only hours to live, unless his gang can get an expert physicker to him in time.
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew's **wanted level** counts as a major advantage for the inspectors.
-* The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs' favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew's lives. The GM isn't sure. How cold-hearted is this veteran hunter? She's stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for "human feelings" to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to **Consort**, **Sway**, or **Command** her to stand down.
+* The PCs face off in a skirmish with a veteran demon hunter and her crew. The tide of battle goes in the PCs' favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew's lives. The GM isn't sure. How cold-hearted is this veteran hunter? She's stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for "human feelings" to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to **Consort**, **Sway**, or **Command** her to stand down.
 
 ---
 
