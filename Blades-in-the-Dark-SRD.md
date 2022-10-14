@@ -124,34 +124,34 @@ The GM judges the threat level of the enemies and uses these "preemptive" resist
 
 #### **Insight**
 
-|   []()   |     |          |          |          |            |
-| :------: | --- | :------: | :------: | :------: | :--------- |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Hunt**   |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Study**  |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Survey** |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Tinker** |
+|   []()   |          |          |          |            |
+| :------: | :------: | :------: | :------: | :--------- |
+| &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | **Hunt**   |
+| &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | **Study**  |
+| &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | **Survey** |
+| &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | **Tinker** |
 
 This character has a **Hunt** action rating of 1.  Their **Insight** attribute rating is 1 (the first column of dots).
 
 #### **Prowess**
 
-|   []()   |     |          |          |          |              |
-| :------: | --- | :------: | :------: | :------: | :----------- |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Finesse**  |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Prowl**    |
-| &#x25CF; |     | &#x25CF; | &#x25CB; | &#x25CB; | **Skirmish** |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Wreck**    |
+|   []()   |          |          |          |              |
+| :------: | :------: | :------: | :------: | :----------- |
+| &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | **Finesse**  |
+| &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | **Prowl**    |
+| &#x25CF; | &#x25CF; | &#x25CB; | &#x25CB; | **Skirmish** |
+| &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | **Wreck**    |
 
 They also have **Prowl** 1 and **Skirmish** 2.  Their **Prowess** attribute rating is 2.
 
 #### **Resolve**
 
-|   []()   |     |          |          |          |             |
-| :------: | --- | :------: | :------: | :------: | :---------- |
-| &#x25CF; |     | &#x25CF; | &#x25CB; | &#x25CB; | **Attune**  |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Command** |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Consort** |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Sway**    |
+|   []()   |          |          |          |             |
+| :------: | :------: | :------: | :------: | :---------- |
+| &#x25CF; | &#x25CF; | &#x25CB; | &#x25CB; | **Attune**  |
+| &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | **Command** |
+| &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | **Consort** |
+| &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | **Sway**    |
 
 ---
 
