@@ -1,3 +1,5 @@
+*This is an adapted and abbreviated version of the Blades in the Dark SRD meant for one shots in any pre-modern or modern setting.*
+
 # The Basics
 
 ## The Game
@@ -756,7 +758,11 @@ Some special abilities refer to your **special armor**. Each character sheet has
 
 ## Choose one close friend and one rival
 
-Each playbook has a list of NPCs that your character knows. Choose one from the list who is a close relationship (a good friend, a lover, a family relation, etc.). Mark the upward-pointing triangle next to their name. Then choose another NPC on the list who's your rival or enemy. Mark the downward-pointing triangle next to their name.
+Your character already has relationships with other people in the city. List someone who is a close relationship (a good friend, a lover, a family relation, etc.). Mark the upward-pointing triangle next to their name. Then list another who's your rival or enemy. Mark the downward-pointing triangle next to their name.
+
+Some possibilities include: a burglar, a boxer, a con artist, a doctor, an assassin, a pharmacist, a religious official, a socialite, a city clerk, a cop, a beggar, a locksmith, a bouncer, a drug dealer, a taxi driver, a bartender, a sex worker, a fence, a prisoner, a pawn broker, a servant, a librarian, a realtor, a cook, a mechanic, a bus driver, a bodega owner.
+
+Questions can include how you know the friend, what they've done for you, what you do for them, and what kind of relationship you have.
 
 ## Choose your vice
 
