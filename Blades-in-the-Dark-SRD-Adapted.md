@@ -159,51 +159,51 @@ They also have **Prowl** 1 and **Skirmish** 2.  Their **Prowess** attribute rati
 
 When you **Attune**, you open your mind to arcane power.
 
-*You might communicate with a ghost. You could try to perceive beyond sight in order to better understand your situation (but Surveying might be better).*
+> You might communicate with a ghost. You could try to perceive beyond sight in order to better understand your situation (but **Surveying** might be better).
 
 When you **Command**, you compel swift obedience.
 
-*You might intimidate or threaten to get what you want. You might lead a gang in a group action. You could try to order people around to persuade them (but Consorting might be better).*
+> You might intimidate or threaten to get what you want. You might lead a gang in a group action. You could try to order people around to persuade them (but **Consorting** might be better).
 
 When you **Consort**, you socialize with friends and contacts.
 
-*You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but Sway might be better).*
+> You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but **Sway** might be better).
 
 When you **Finesse**, you employ dextrous manipulation or subtle misdirection.
 
-*You might pick someone's pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Skirmishing might be better). You could try to pick a lock (but Tinkering might be better).*
+> You might pick someone's pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Skirmishing might be better). You could try to pick a lock (but Tinkering might be better).
 
 When you **Hunt**, you carefully track a target.
 
-*You might follow a target or discover their location. You might arrange an ambush. You might attack with precision shooting from a distance. You could try to bring your guns to bear in a melee (but Skirmishing might be better).*
+> You might follow a target or discover their location. You might arrange an ambush. You might attack with precision shooting from a distance. You could try to bring your guns to bear in a melee (but **Skirmishing** might be better).
 
 When you **Prowl**, you traverse skillfully and quietly.
 
-*You might sneak past a guard or hide in the shadows. You might run and leap across the rooftops. You might attack someone from hiding with a back-stab or blackjack. You could try to waylay a victim in the midst of battle (but Skirmishing might be better).*
+> You might sneak past a guard or hide in the shadows. You might run and leap across the rooftops. You might attack someone from hiding with a back-stab or blackjack. You could try to waylay a victim in the midst of battle (but **Skirmishing** might be better).
 
 When you **Skirmish**, you entangle a target in close combat so they can't easily escape.
 
-*You might brawl or wrestle with them. You might hack and slash. You might seize or hold a position in battle. You could try to fight in a formal duel (but Finessing might be better).*
+> You might brawl or wrestle with them. You might hack and slash. You might seize or hold a position in battle. You could try to fight in a formal duel (but **Finessing** might be better).
 
 When you **Study**, you scrutinize details and interpret evidence.
 
-*You might gather information from documents, newspapers, and books. You might do research on an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but Surveying might be better).*
+> You might gather information from documents, newspapers, and books. You might do research on an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but **Surveying** might be better).
 
 When you **Survey**, you observe the situation and anticipate outcomes.
 
-*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person's motivations or intentions. You could try to spot a good ambush point (but Hunting might be better).*
+> You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person's motivations or intentions. You could try to spot a good ambush point (but **Hunting** might be better).
 
 When you **Sway**, you influence with guile, charm, or argument.
 
-*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better).*
+> You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but **Consorting** or **Commanding** might be better).
 
 When you **Tinker**, you fiddle with devices and mechanisms.
 
-*You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but Finessing might be better).*
+> You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but **Finessing** might be better).
 
 When you **Wreck**, you unleash savage force.
 
-*You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Skirmishing might be better).*
+> You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but **Skirmishing** might be better).
 
 As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to **Wreck** someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, **Skirmish** *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won't be better).
 
@@ -213,9 +213,9 @@ As you can see, many actions overlap with others. This is by design. As a player
 
 Player characters in *Blades in the Dark* have a special reserve called **stress**. When they suffer a consequence that they don't want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
-*During a knife fight, Daniel's character, Cross, gets stabbed in the chest. Daniel rolls his **Prowess** rating to resist, and gets a **2**. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
-
-*The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm ("Chest Wound") instead of level 3 harm ("Punctured Lung").*
+> During a knife fight, Daniel's character, Cross, gets stabbed in the chest. Daniel rolls his **Prowess** rating to resist, and gets a **2**. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.
+> 
+> The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm ("Chest Wound") instead of level 3 harm ("Punctured Lung").*
 
 ## Pushing Yourself
 
@@ -248,9 +248,7 @@ When you suffer **trauma**, you're taken out of action. You're "left for dead" o
 
 A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
-@TODO add clock illustration
-
-*Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.*
+> Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.
 
 Generally, the more complex the problem, the more segments in the progress clock.
 
@@ -309,7 +307,7 @@ To make an action roll, we go through six steps. In play, they flow together som
 
 Your goal is the concrete outcome your character will achieve when they overcome the obstacle at hand. Usually the character's goal is pretty obvious in context, but it's the GM's job to ask and clarify the goal when necessary.
 
-*"You're punching him in the face, right? Okay... what do want to get out of this? Do you want to take him out, or just rough him up so he'll do what you want?"*
+> *"You're punching him in the face, right? Okay... what do want to get out of this? Do you want to take him out, or just rough him up so he'll do what you want?"*
 
 ## 2. The Player Chooses the Action Rating
 
@@ -325,7 +323,7 @@ Once the player chooses their action, the GM sets the **position** for the roll.
 
 The GM assesses the likely **effect level** of this action, given the factors of the situation. Essentially, the effect level tells us "how much" this action can accomplish: will it have **limited**, **standard**, or **great** effect?
 
-*The GM's choices for effect level and position can be strongly influenced by the player's choice of action rating. If a player wants to try to make a new friend by **Wrecking** something—well... maybe that's possible, but the GM wouldn't be crazy to say it's a desperate roll and probably limited effect. Seems like **Consorting** would be a lot better for that. The players are always free to choose the action they perform, but that doesn't mean all actions should be equally risky or potent.*
+> The GM's choices for effect level and position can be strongly influenced by the player's choice of action rating. If a player wants to try to make a new friend by **Wrecking** something—well... maybe that's possible, but the GM wouldn't be crazy to say it's a desperate roll and probably limited effect. Seems like **Consorting** would be a lot better for that. The players are always free to choose the action they perform, but that doesn't mean all actions should be equally risky or potent.
 
 ## 5. Add Bonus Dice
 
@@ -363,7 +361,7 @@ On a **1-3**, it's up to the GM to decide if the PC's action has any effect or n
 
 Each **4/5** and **1-3** outcome lists suggested **consequences** for the character. The worse your position, the worse the consequences are. The GM can inflict one or more of these consequences, depending on the circumstances of the action roll. PCs have the ability to avoid or reduce the severity of consequences that they suffer by **resisting** them.
 
-When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. *Tell us how you vault across to the other rooftop. Tell us what you say to the Inspector to convince her. The GM will tell us how she reacts. When you face the Red Sash duelist, what's your fighting style like? Etc.*
+When you narrate the action after the roll, the GM and player collaborate together to say what happens on-screen. *Tell us how you vault across to the other rooftop. Tell us what you say to the Inspector to convince her. The GM will tell us how she reacts. When you face the Boxer, what's your fighting style like? Etc.*
 
 ## Action Roll Summary
 
@@ -443,7 +441,7 @@ The potency factor considers particular weaknesses, taking extra time or a bigge
 
 Quality represents the effectiveness of tools, weapons, or other resources, usually summarized by Tier. **Fine items** count as +1 bonus in quality, stacking with Tier.
 
-*Thorn is picking the lock to a safehouse run of a gang renowned for Occult dealings. Her crew is Tier I and she has fine lock picks - so she's effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock.*
+> Thorn is picking the lock to a safehouse run of a gang renowned for Occult dealings. Her crew is Tier I and she has fine lock picks - so she's effectively Tier II. The Occult gang is Tier III. Thorn is outclassed in quality, so her effect will be limited on the lock.
 
 ### Scale
 
@@ -463,13 +461,13 @@ After factors are considered and the GM has announced the effect level, a player
 
 This kind of trade-off isn't included in the effect factors because it's not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
 
-*"I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola."*
+> *"I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola."*
 
-*"I don't think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let's say you can get halfway across with this action, then you'll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side."*
+> *"I don't think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let's say you can get halfway across with this action, then you'll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side."*
 
-*"I didn't realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?"*
+> *"I didn't realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?"*
 
-*"Yep, sounds good to me!"*
+> *"Yep, sounds good to me!"*
 
 ## Consequences
 
@@ -481,12 +479,15 @@ The GM sets position and effect for an action roll at the same time, after the p
 
 The ability to set position and effect as independent variables gives you nine combinations to choose from, to help you convey a wide array of fictional circumstances.
 
-*For example, if a character is facing off alone against a small enemy gang, the situation might be:*
-
-* *She fights the gang straight up, rushing into their midst, hacking away in a wild ***Skirmish***. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
-* *She fights the gang from a choke-point, like a narrow alleyway where their numbers can't overwhelm her at once. She's not threatened by several at once, so her risk is similar to a one-on-one fight, but there's still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
-* *She doesn't fight the gang, instead trying to maneuver her way past them and escape. She's still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can't easily corral her, then her effect for escaping isn't reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
-* *The gang isn't aware of her yet—she's set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren't a factor, so her effect isn't reduced, and she's not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
+> For example, if a character is facing off alone against a small enemy gang, the situation might be:
+> 
+> * She fights the gang straight up, rushing into their midst, hacking away in a wild ***Skirmish***. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).
+> 
+> * She fights the gang from a choke-point, like a narrow alleyway where their numbers can't overwhelm her at once. She's not threatened by several at once, so her risk is similar to a one-on-one fight, but there's still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).
+> 
+> * She doesn't fight the gang, instead trying to maneuver her way past them and escape. She's still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can't easily corral her, then her effect for escaping isn't reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).
+> 
+> * The gang isn't aware of her yet—she's set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren't a factor, so her effect isn't reduced, and she's not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).
 
 # Consequences and Harm
 
@@ -534,7 +535,7 @@ If you need to mark a harm level, but the row is already filled, the harm moves 
 |  2   | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \| |      -1D       |
 |  1   | *Drained* &nbsp; \| &nbsp; *Battered*                      | Reduced Effect |
 
-*This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.*
+> This character has three harm: a "Shattered Right Leg" (level 3) plus "Drained" and "Battered" (level 1). If they suffer another level 1 harm, it will move up to level 2. If they suffer another level 3 harm, it will move up to level 4: Fatal.
 
 ---
 
@@ -574,9 +575,9 @@ The GM also has the option to rule that your character **completely avoids** the
 
 The GM may also threaten several consequences at once, then the player may choose which ones to resist (and make rolls for each).
 
-> "She stabs you and then leaps off the balcony. Level 2 harm and you lose the opportunity to catch her with fighting."
+> *"She stabs you and then leaps off the balcony. Level 2 harm and you lose the opportunity to catch her with fighting."*
 >
-> "I'll resist losing the opportunity by grappling her as she attacks. She can stab me, but I don't want to let her escape."
+> *"I'll resist losing the opportunity by grappling her as she attacks. She can stab me, but I don't want to let her escape."*
 
 Once you decide to resist a consequence and roll, you suffer the stress indicated. You can't roll first and see how much stress you'll take, then decide whether or not to resist.
 
@@ -700,7 +701,7 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ### GATHER INFORMATION
 
-*Ask a question and make an action roll or a fortune roll. The GM answers you honestly, with a level of detail depending on the effect level.*
+> Ask a question and make an action roll or a fortune roll. The GM answers you honestly, with a level of detail depending on the effect level.
 
 **Great**: You get exceptional details. The information is complete and follow-up questions may expand into related areas or reveal more than you hoped for.
 
@@ -709,74 +710,6 @@ You track the investigation project using a progress clock. Once the clock is fi
 **Limited**: You get incomplete or partial information. More information gathering will be needed to get all the answers.
 
 ---
-
-# Coin and Stash
-
-## Coin
-
-**Coin** is an abstract measure of cash and liquid assets.
-
-The few bits PCs use in their daily lives are not tracked. If a character wants to spend to achieve a small goal (bribe a doorman), use the PC's **lifestyle quality** for a fortune roll.
-
-## Monetary values
-
-* **1 coin**: A full purse of silver pieces. A week's wages.
-* **2 coin**: A fine weapon. A weekly income for a small business. A fine piece of art. A set of luxury clothes.
-* **4 coin**: A satchel full of silver. A month's wages.
-* **6 coin**: An exquisite jewel. A heavy burden of silver pieces.
-* **8 coin**: A good monthly take for a small business. A small safe full of coins and valuables. A very rare luxury commodity.
-* **10 coin**: Liquidating a significant asset—a carriage and goats, a horse, a deed to a small property.
-
-More than 4**coin** is an impractical amount to keep lying around. You must spend the excess or put it in your **stash** (see below). A crew can also store 4 **coin** in their lair, by default. If they upgrade to a **vault**, they can expand their stores to **8** and then **16** **coin**. Any **coin** beyond their limit must be spent as soon as possible (typically before the next score) or distributed among the crew members.
-
-One unit of **coin** in silver pieces or other bulk currency takes up one item slot for your **load** when carried.
-
-### Coin Use
-
-* Spend 1 **coin** to get an additional **activity** during **downtime**.
-* Spend 1 **coin** to increase the result level of a **downtime activity** roll.
-* Spend **coin** to avoid certain crew **entanglements**.
-* Put **coin** in your character's **stash** to improve their lifestyle and circumstances when they retire. See the next section.
-* Spend **coin** when you advance your crew's **Tier**.
-
-## Stash & Retirement
-
-When you mark your character's final **trauma** and they retire, the amount of **coin** they've managed to stash away determines their fate. Your stash tracker is on your character sheet.
-
-* **Stash 0-10:** **Poor soul.** You end up in the gutter, awash in vice and misery.
-* **Stash 11-20: Meager.** A tiny hovel that you can call your own.
-* **Stash 21-39: Modest.** A simple home or apartment, with some small comforts. You might operate a tavern or small business.
-* **Stash 40: Fine.** A well-appointed home or apartment, claiming a few luxuries. You might operate a medium business.
-
-In addition, each full row of stash (10 **coins**) indicates the **quality level of the character's lifestyle**, from zero (street life) to four (luxury).
-
-> Cross wants some alone-time with a prospective new friend, but he can't take them back to the hidden lair where he lives, so what to do? Ryan, Cross's player, says he wants to rent a nice room for the evening, so the GM asks for a fortune roll using Cross's lifestyle rating to see what quality of room Cross can manage.
-
-### Removing coin from your stash
-
-If you want to pull **coin** out of your stash, you may do so, at a cost. Your character sells off some of their assets and investments in order to get some quick cash. **For every 2 stash removed, you get 1 ****coin**** in cash.**
-
-# Advancement
-
-## PC Advancement
-
-Each player keeps track of the experience points (**xp**) that their character earns.
-
-During the game session, mark xp:
-
-* When you make a **desperate action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a desperate **Skirmish** action, you mark xp in **Prowess***.* When you roll in a **group action** that's desperate, you also mark xp.
-
-At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
-
-* **Your playbook-specific xp trigger**. For example, *"Address a challenge with violence or coercion."* To "address a challenge," your character should attempt to overcome a tough obstacle or threat. It doesn't matter if the action is successful or not. You get xp either way.
-* **You expressed your beliefs, drives, heritage, or background.** Your character's beliefs and drives are yours to define, session to session. Feel free to tell the group about them when you mark xp.
-* **You struggled with issues from your vice or traumas**. Mark xp for this if your vice tempted you to some bad action or if a trauma condition caused you trouble. Simply indulging your vice doesn't count as struggling with it (unless you **overindulge**).
-
-You may mark end-of-session xp on any xp tracks you want (any attribute or your playbook xp track).
-
-When you fill an xp track, clear all the marks and take an **advance**. When you take an advance from your playbook track, you may choose an additional **special ability**. When you take an advance from an attribute, you may add an **additional action dot** to one of the actions under that attribute.
-
-> Nadja reviews her xp triggers and tells the group how much xp she's getting. She rolled two desperate **Hunt** actions during the session, so she marked 2 xp on her **Insight** xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her Iruvian heritage many times when dealing with the Red Sashes, so she takes 2 xp for that. She also showcased her character's beliefs, but 2 xp is the maximum for that category, so she doesn't get any more. She didn't struggle with her vice or traumas, so no xp there. That's 4 xp at the end of the session. She decides to put it all in her **Insight** xp track. This fills the track, so she adds a new action dot in **Hunt**.
 
 # Characters
 
@@ -792,7 +725,7 @@ Of course, you'll also have your specializations and skills, the qualities that 
 
 A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
 
-When you choose a playbook, you're choosing a set of **special abilities** (which give your character ways to break the rules in various ways) and a set of **xp triggers** (which determine how you earn experience for character advancement). But every playbook represents a scoundrel at heart. Picking special abilities related to combat does not make you "the fighter" of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
+When you choose a playbook, you're choosing a set of **special abilities** (which give your character ways to break the rules in various ways). But every playbook represents a scoundrel at heart. Picking special abilities related to combat does not make you "the fighter" of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
 
 This is why we call them "playbooks" rather than "character classes" or "archetypes." You're selecting the set of initial action ratings and special abilities that your character has access to—but you're not defining their immutable essence or true nature. Your character will grow and change over time; who they become is part of the fun of playing the game.
 
@@ -844,7 +777,7 @@ Choose a name for your character from the sample list, or create your own. If yo
 
 ## Review your details
 
-Take a look at the details on your character sheet, especially the **experience triggers** for your playbook (like "Earn xp when you address a challenge with knowledge or arcane power," for example). You begin with access to all of the items on your sheet, so don't worry about picking specific things—you'll decide what your character is carrying later on, when you're on the job.
+Take a look at the details on your character sheet. You begin with access to all of the items on your sheet, so don't worry about picking specific things—you'll decide what your character is carrying later on, when you're on the job.
 
 That's it! Your character is ready for play. When you start the first session, the GM will ask you some questions about who you are, your outlook, or some past events. If you don't know the answers, make some up. Or ask the other players for ideas.
 
@@ -888,8 +821,6 @@ You don't need to select specific items now.  Review your personal items and the
 ## Short Descriptor of Character
 
 Medium length description of the character here. Include what kind of activities they normally partake in.
-
-**Include the XP triggers for the characters here.** At the end of a session mark XP if you addressed a challenge with: insert a short list of methods or actions here. Examples could include: violence, coercion, knowledge, charm, audacity, calculation, deception, influence, stealth, evasion, technical skill, mayhem, tracking, or occult powers.
 
 ---
 
@@ -1126,7 +1057,7 @@ Some examples include: Weapons, clothes, arcane implements, specialized tools, c
 
 # The Score
 
-*Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.*
+> Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.
 
 In *Blades in the Dark*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
 
@@ -1250,7 +1181,7 @@ A flashback isn't time travel. It can't "undo" something that just occurred in t
 
 #### flashback examples
 
-> "I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they'll go berserk and create a distraction for our infiltration."
+> *"I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they'll go berserk and create a distraction for our infiltration."
 >
 > "Ha! Nice. Okay, that's seems a bit tricky, dealing with ornery goats and all... 1 stress."
 >
@@ -1260,11 +1191,11 @@ A flashback isn't time travel. It can't "undo" something that just occurred in t
 >
 > "So it just works?"
 >
-> "Eh... not so fast. When you want the distraction to hit, let's make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice."
+> "Eh... not so fast. When you want the distraction to hit, let's make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice."*
 >
 > ---
 >
-> "The engagement roll is... a **2**. Looks like a desperate situation for you! Hmmm. Okay, so you're inside the gang's compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they're getting a delivery right now, and a bunch of gang members are out to receive it. They're about to be on top of you. What do you do?"
+> *"The engagement roll is... a **2**. Looks like a desperate situation for you! Hmmm. Okay, so you're inside the gang's compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they're getting a delivery right now, and a bunch of gang members are out to receive it. They're about to be on top of you. What do you do?"
 >
 > "Hang on, I want to have a flashback."
 >
@@ -1278,7 +1209,7 @@ A flashback isn't time travel. It can't "undo" something that just occurred in t
 >
 > "Sounds good. But let's make that Consort roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?"
 >
-> "I did it. I'll roll Tinker to set the fuse just right. Hopefully."
+> "I did it. I'll roll Tinker to set the fuse just right. Hopefully."*
 
 ## Giving up on a score
 
