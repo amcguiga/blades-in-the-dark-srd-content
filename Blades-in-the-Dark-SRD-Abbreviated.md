@@ -77,6 +77,113 @@ During the downtime phase, the GM engages the systems for *payoff*, *heat*, and 
 
 The phases are a conceptual model to help you organize the game. They're not meant to be rigid structures that restrict your options (this is why they're presented as amorphous blobs of ink without hard edges). Think of the phases as a menu of options to fit whatever it is you're trying to accomplish in play. Each phase suits a different goal.
 
+# Characters
+
+## Characters
+
+Every player character is familiar with all of the various feats of skulduggery represented by the **actions** of the game. They're all able to **Skirmish** in a knife-fight, **Prowl** in the shadows, **Attune** to strange energy, **Consort** with contacts for information, and so on.
+
+Of course, you'll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you'll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
+
+# Character creation
+
+## Create playbooks
+
+A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
+
+When you choose a playbook, you're choosing a set of **special abilities** (which give your character ways to break the rules in various ways). But every playbook represents a scoundrel at heart. Picking special abilities related to combat does not make you "the fighter" of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
+
+This is why we call them "playbooks" rather than "character classes" or "archetypes." You're selecting the set of initial action ratings and special abilities that your character has access to—but you're not defining their immutable essence or true nature. Your character will grow and change over time; who they become is part of the fun of playing the game.
+
+Once you've chosen your playbook, follow the steps below to complete your character.
+
+## Choose a heritage
+
+Your character's **heritage** describes where their family line is from. When you choose a heritage, write a detail about your family life on the line above.
+
+## Choose a background
+
+Your character's **background** describes what they did before they joined the crew. Choose a background and then write a detail about it that's specific to your character.
+
+## Assign four action dots
+
+Your playbook begins with three action dots already placed. You get to add four more dots (so you'll have seven total). At the start of the game, no action rating may have more than two dots (unless a special ability tells you otherwise). Assign your four dots like this:
+
+* Put one dot in any action that you feel reflects your character's **heritage**.
+* Put one dot in any action that you feel reflects your character's **background**.
+* Assign two more dots anywhere you please (max rating is 2, remember).
+
+## Choose a special ability
+
+Take a look at the special abilities for your playbook and choose one. If you can't decide which one to pick, go with the first one on the list—it's placed there as a good default choice.
+
+### Special Armor
+
+Some special abilities refer to your **special armor**. Each character sheet has a set of three boxes to track usage of armor (standard, heavy, and special). If you have any abilities that use your special armor, tick its box when you activate one of them. If you don't have any special abilities that use special armor, then you can't use that armor box at all.
+
+## Choose one close friend and one rival
+
+Your character already has relationships with other people in the city. List someone who is a close relationship (a good friend, a lover, a family relation, etc.). Mark the upward-pointing triangle next to their name. Then list another who's your rival or enemy. Mark the downward-pointing triangle next to their name.
+
+Some possibilities include: a burglar, a boxer, a con artist, a doctor, an assassin, a pharmacist, a religious official, a socialite, a city clerk, a cop, a beggar, a locksmith, a bouncer, a drug dealer, a taxi driver, a bartender, a sex worker, a fence, a prisoner, a pawn broker, a servant, a librarian, a realtor, a cook, a mechanic, a bus driver, a bodega owner.
+
+Questions can include how you know the friend, what they've done for you, what you do for them, and what kind of relationship you have.
+
+## Choose your vice
+
+Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
+
+* **Faith**: You're dedicated to an unseen power, forgotten god, ancestor, etc.
+* **Gambling**: You crave games of chance, betting on sporting events, etc.
+* **Luxury**: Expensive or ostentatious displays of opulence.
+* **Obligation**: You're devoted to a family, a cause, an organization, a charity, etc.
+* **Pleasure**: Gratification from lovers, food, drink, drugs, art, theater, etc.
+* **Stupor**: You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
+* **Weird**: You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
+
+## Record your name, alias, & look
+
+Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character's look (samples provided in the next sections).
+
+## Review your details
+
+Take a look at the details on your character sheet. You begin with access to all of the items on your sheet, so don't worry about picking specific things—you'll decide what your character is carrying later on, when you're on the job.
+
+That's it! Your character is ready for play. When you start the first session, the GM will ask you some questions about who you are, your outlook, or some past events. If you don't know the answers, make some up. Or ask the other players for ideas.
+
+## Character creation summary
+
+**1** **Choose a playbook.** Your playbook represents your character's reputation, their special abilities, and how they advance.
+
+**2** **Choose a heritage.** Detail your choice with a note about your family life. *For example, recent immigrants fresh off the boat.*
+
+**3** **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
+
+**4** **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
+
+**5** **Choose a special ability.** They're in the gray column in the middle of the character sheet. If you can't decide, choose the first ability on the list. It's placed there as a good first option.
+
+**6** **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
+
+**7** **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
+
+**8** **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look.
+
+## Loadout
+
+You have access to all of the **items** on your character sheet. For each operation, decide what your character's **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
+
+* **1-3 load**: **Light.** *You're faster, less conspicuous; you blend in with citizens.*
+* **4/5 load**: **Normal.** *You look like a scoundrel, ready for trouble.*
+* **6 load**: **Heavy.** *You're slower. You look like an operative on a mission.*
+* **7-9 load**: **Encumbered.** *You're overburdened and can't do anything except move very slowly.*
+
+Some special abilities (like the **Mule** ability) increase the load limits.
+
+Some items count as two items for load (they have two connected boxes). *Items in italics don't count toward your load.*
+
+You don't need to select specific items now.  Review your personal items and the standard item descriptions.
+
 # Actions & Attributes
 
 ## Action Ratings
@@ -245,50 +352,6 @@ When you suffer **trauma**, you're taken out of action. You're "left for dead" o
 * **Soft**: You lose your edge; you become sentimental, passive, gentle.
 * **Unstable**: Your emotional state is volatile. You can instantly rage, or fall into despair, act impulsively, or freeze up.
 * **Vicious**: You seek out opportunities to hurt people, even for no good reason.
-
-# Progress clocks
-
-A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
-
-> Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.
-
-Generally, the more complex the problem, the more segments in the progress clock.
-
-A complex obstacle is a 4-segment clock. A more complicated obstacle is a 6-clock. A daunting obstacle is an 8-segment clock.
-
-When you create a clock, make it about the **obstacle,** not the method. The clocks for an infiltration should be "Interior Patrols" and "The Tower," not "Sneak Past the Guards" or "Climb the Tower." The patrols and the tower are the obstacles - the PCs can attempt to overcome them in a variety of ways.
-
-Complex enemy threats can be broken into several "layers," each with its own progress clock. For example, the dockside gangs' HQ might have a "Perimeter Security" clock, an "Interior Guards" clock, and a "Office Security" clock. The crew would have to make their way through all three layers to reach the gang boss' personal safe and valuables within.
-
-Remember that a clock tracks progress. It reflects the fictional situation, so the group can gauge how they're doing. A clock is like a speedometer in a car. It *shows* the speed of the vehicle—it doesn't determine the speed.
-
-## Simple Obstacles
-
-Not every situation and obstacle requires a clock. Use clocks when a situation is complex or layered and you need to track something over time—otherwise, resolve the result of an action with a single roll.
-
-Examples of progress clocks follow.
-
-## Danger Clocks
-
-The GM can use a clock to represent a progressive danger, like suspicion growing during a seduction, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
-
-## Racing Clocks
-
-Create two opposed clocks to represent a race. The PCs might have a progress clock called "Escape" while the constables have a clock called "Cornered." If the PCs finish their clock before the constables fill theirs, they get away. Otherwise, they're cornered and can't flee. If both complete at the same time, the PCs escape to their lair, but the hunting officers are outside!
-
-You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the "Search" clock to find the lockbox on the sinking ship before the GM fills the "Sunk" clock and the vessel goes down.
-
-## Linked Clocks
-
-You can make a clock that unlocks another clock once it's filled. For example, the GM might make a linked clock called "Trapped" after an "Alert" clock fills up. When you fight a veteran warrior, she might have a clock for her "Defense" and then a linked clock for "Vulnerable." Once you overcome the "Defense" clock, then you can attempt to overcome the "Vulnerable" clock and defeat her.  You might affect the "Defense" clock with violence in a knife-fight, or you lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
-
-## Mission Clocks
-
-The GM can make a clock for a time-sensitive mission, to represent the window of opportunity you have to complete it. If the countdown runs out, the mission is scrubbed or changes—the target escapes, the household wakes up for the day, etc.
-
-## Tug-of-war Clocks
-
-You can make a clock that can be filled *and* emptied by events, to represent a back-and-forth situation. You might make a "Revolution!" clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.
 
 # Action Roll
 
@@ -712,114 +775,264 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ---
 
-# Characters
+# Progress clocks
 
-## Characters
+A **progress clock** is a circle divided into segments (see examples at right). Draw a progress clock when you need to track ongoing effort against an obstacle or the approach of impending trouble.
 
-Every player character is familiar with all of the various feats of skulduggery represented by the **actions** of the game. They're all able to **Skirmish** in a knife-fight, **Prowl** in the shadows, **Attune** to strange energy, **Consort** with contacts for information, and so on.
+> Sneaking into the constables watch tower? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.
 
-Of course, you'll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you'll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
+Generally, the more complex the problem, the more segments in the progress clock.
 
-# Character creation
+A complex obstacle is a 4-segment clock. A more complicated obstacle is a 6-clock. A daunting obstacle is an 8-segment clock.
 
-## Create playbooks
+When you create a clock, make it about the **obstacle,** not the method. The clocks for an infiltration should be "Interior Patrols" and "The Tower," not "Sneak Past the Guards" or "Climb the Tower." The patrols and the tower are the obstacles - the PCs can attempt to overcome them in a variety of ways.
 
-A playbook is what we call the sheet with all the specific rules to play a certain character type in a Blades-powered game. For example, you might create a playbook called a **Soldier**, with special abilities related to battle, or a playbook called a **Medic**, with special abilities related to field medicine.
+Complex enemy threats can be broken into several "layers," each with its own progress clock. For example, the dockside gangs' HQ might have a "Perimeter Security" clock, an "Interior Guards" clock, and a "Office Security" clock. The crew would have to make their way through all three layers to reach the gang boss' personal safe and valuables within.
 
-When you choose a playbook, you're choosing a set of **special abilities** (which give your character ways to break the rules in various ways). But every playbook represents a scoundrel at heart. Picking special abilities related to combat does not make you "the fighter" of the game. Any character type can fight well. Think of your playbook as an area of focus and preference, but not a unique skill set.
+Remember that a clock tracks progress. It reflects the fictional situation, so the group can gauge how they're doing. A clock is like a speedometer in a car. It *shows* the speed of the vehicle—it doesn't determine the speed.
 
-This is why we call them "playbooks" rather than "character classes" or "archetypes." You're selecting the set of initial action ratings and special abilities that your character has access to—but you're not defining their immutable essence or true nature. Your character will grow and change over time; who they become is part of the fun of playing the game.
+## Simple Obstacles
 
-Once you've chosen your playbook, follow the steps below to complete your character.
+Not every situation and obstacle requires a clock. Use clocks when a situation is complex or layered and you need to track something over time—otherwise, resolve the result of an action with a single roll.
 
-## Choose a heritage
+Examples of progress clocks follow.
 
-Your character's **heritage** describes where their family line is from. When you choose a heritage, write a detail about your family life on the line above.
+## Danger Clocks
 
-## Choose a background
+The GM can use a clock to represent a progressive danger, like suspicion growing during a seduction, the proximity of pursuers in a chase, or the alert level of guards on patrol. In this case, when a complication occurs, the GM ticks one, two, or three segments on the clock, depending on the consequence level. When the clock is full, the danger comes to fruition—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
-Your character's **background** describes what they did before they joined the crew. Choose a background and then write a detail about it that's specific to your character.
+## Racing Clocks
 
-## Assign four action dots
+Create two opposed clocks to represent a race. The PCs might have a progress clock called "Escape" while the constables have a clock called "Cornered." If the PCs finish their clock before the constables fill theirs, they get away. Otherwise, they're cornered and can't flee. If both complete at the same time, the PCs escape to their lair, but the hunting officers are outside!
 
-Your playbook begins with three action dots already placed. You get to add four more dots (so you'll have seven total). At the start of the game, no action rating may have more than two dots (unless a special ability tells you otherwise). Assign your four dots like this:
+You can also use racing clocks for an environmental hazard. Maybe the PCs are trying to complete the "Search" clock to find the lockbox on the sinking ship before the GM fills the "Sunk" clock and the vessel goes down.
 
-* Put one dot in any action that you feel reflects your character's **heritage**.
-* Put one dot in any action that you feel reflects your character's **background**.
-* Assign two more dots anywhere you please (max rating is 2, remember).
+## Linked Clocks
 
-## Choose a special ability
+You can make a clock that unlocks another clock once it's filled. For example, the GM might make a linked clock called "Trapped" after an "Alert" clock fills up. When you fight a veteran warrior, she might have a clock for her "Defense" and then a linked clock for "Vulnerable." Once you overcome the "Defense" clock, then you can attempt to overcome the "Vulnerable" clock and defeat her.  You might affect the "Defense" clock with violence in a knife-fight, or you lower her defense with deception if you have the opportunity. As always, the method of action is up to the players and the details of the fiction at hand.
 
-Take a look at the special abilities for your playbook and choose one. If you can't decide which one to pick, go with the first one on the list—it's placed there as a good default choice.
+## Mission Clocks
 
-### Special Armor
+The GM can make a clock for a time-sensitive mission, to represent the window of opportunity you have to complete it. If the countdown runs out, the mission is scrubbed or changes—the target escapes, the household wakes up for the day, etc.
 
-Some special abilities refer to your **special armor**. Each character sheet has a set of three boxes to track usage of armor (standard, heavy, and special). If you have any abilities that use your special armor, tick its box when you activate one of them. If you don't have any special abilities that use special armor, then you can't use that armor box at all.
+## Tug-of-war Clocks
 
-## Choose one close friend and one rival
+You can make a clock that can be filled *and* emptied by events, to represent a back-and-forth situation. You might make a "Revolution!" clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.
 
-Your character already has relationships with other people in the city. List someone who is a close relationship (a good friend, a lover, a family relation, etc.). Mark the upward-pointing triangle next to their name. Then list another who's your rival or enemy. Mark the downward-pointing triangle next to their name.
+---
 
-Some possibilities include: a burglar, a boxer, a con artist, a doctor, an assassin, a pharmacist, a religious official, a socialite, a city clerk, a cop, a beggar, a locksmith, a bouncer, a drug dealer, a taxi driver, a bartender, a sex worker, a fence, a prisoner, a pawn broker, a servant, a librarian, a realtor, a cook, a mechanic, a bus driver, a bodega owner.
+# The Score
 
-Questions can include how you know the friend, what they've done for you, what you do for them, and what kind of relationship you have.
+> Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.
 
-## Choose your vice
+In *Blades in the Dark*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
 
-Every character is in thrall to some vice or another, which they indulge to deal with stress. Choose a vice from the list, and describe it on the line above with the specific details and the name and location of your **vice purveyor**.
+A score is a single operation with a particular goal: *burgle a Lord's manor, assassinate the diplomat, smuggle a strange artifact into the city*, etc. Usually, a score will fall into one of three categories:
 
-* **Faith**: You're dedicated to an unseen power, forgotten god, ancestor, etc.
-* **Gambling**: You crave games of chance, betting on sporting events, etc.
-* **Luxury**: Expensive or ostentatious displays of opulence.
-* **Obligation**: You're devoted to a family, a cause, an organization, a charity, etc.
-* **Pleasure**: Gratification from lovers, food, drink, drugs, art, theater, etc.
-* **Stupor**: You seek oblivion in the abuse of drugs, drinking to excess, getting beaten to a pulp in the fighting pits, etc.
-* **Weird**: You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos, etc.
+* A **criminal activity**, determined by your crew type. An assassination, burglary, illicit vice deal, etc.
+* Seizing a **claim** that you choose from your crew's **claim map**. Claims help your crew grow and develop.
+* A **special mission** or goal determined by the players (like getting a rare artifact to empower an arcane rituals).
 
-## Record your name, alias, & look
+A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. *Play to find out what happens!* A score doesn't need to fill one session of play every time. Let it be however long it is.
 
-Choose a name for your character from the sample list, or create your own. If your character uses an alias or nickname in the underworld, make a note of it. Record a few evocative words that describe your character's look (samples provided in the next sections).
+The PCs can set up a new score by choosing a target (from their claims or the faction list, for example), by approaching a potential client and asking for work, or by being contacted by an NPC who needs to hire a crew for a job.
 
-## Review your details
+A score consists of a few key elements, detailed in this chapter: **planning & engagement**, **flashbacks**, and **teamwork**.
 
-Take a look at the details on your character sheet. You begin with access to all of the items on your sheet, so don't worry about picking specific things—you'll decide what your character is carrying later on, when you're on the job.
+# Planning & engagement
 
-That's it! Your character is ready for play. When you start the first session, the GM will ask you some questions about who you are, your outlook, or some past events. If you don't know the answers, make some up. Or ask the other players for ideas.
+Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
 
-## Character creation summary
+But you, the players, don't have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters *have already made*. There's no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed in the next section) ultimately determines how much trouble you're in when the plan is put in motion. *No plan is ever perfect.* You can't account for everything. This system assumes that there's always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
 
-@TODO style dropcaps.
+There are six different plans, each with a missing **detail** you need to provide (see the list below). To "plan an operation," simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
 
-**1** **Choose a playbook.** Your playbook represents your character's reputation, their special abilities, and how they advance.
+* Assault - Do violence to a target. *Detail: The point of attack.*
+* Deception - Lure, trick, or manipulate. *Detail: The method of deception.*
+* Stealth - Trespass unseen. *Detail: The point of infiltration.*
+* Occult - Engage a supernatural power. *Detail: The arcane method.*
+* Social - Negotiate, bargain, or persuade. *Detail: The social connection.*
+* Transport - Carry cargo or people through danger. *Detail: The route and means.*
 
-**2** **Choose a heritage.** Detail your choice with a note about your family life. *For example, recent immigrants fresh off the boat.*
+## The Detail
 
-**3** **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
+When you choose a plan, you provide a missing **detail**, like the point of attack, social connection, etc. If you don't know the detail, you can **gather information** in some way to discover it.
 
-**4** **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
+## Item Loadouts
 
-**5** **Choose a special ability.** They're in the gray column in the middle of the character sheet. If you can't decide, choose the first ability on the list. It's placed there as a good first option.
+After the plan and detail are in place, each player chooses their character's **load**. This indicates how much stuff they're carrying on the operation. They don't have to select individual items—just the maximum amount they'll have access to during the action.
 
-**6** **Choose a close friend and a rival.** Mark the one who is a close friend, long-time ally, family relation, or lover (the upward-pointing triangle). Mark one who is a rival, enemy, scorned lover, betrayed partner, etc. (the downward-pointing triangle).
+## Engagement Roll
 
-**7** **Choose your vice.** Pick your preferred type of vice, detail it with a short description and indicate the name and location of your vice purveyor.
+Once the players choose a plan and provide its detail, the GM cuts to the action—describing the scene as the crew starts the operation and encounters their first obstacle. But how is this established? The way the GM describes the starting situation can have a huge impact on how simple or troublesome the operation turns out to be. Rather than expecting the GM to simply "get it right" each time, we use a dice roll instead. This is the **engagement roll**.
 
-**8** **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look. Examples are provided in the preceding sections.
+The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
 
-## Loadout
+### Major Advantages / Disadvantages
 
-You have access to all of the **items** on your character sheet. For each operation, decide what your character's **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
+* Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
+* Does the **plan's detail** expose a vulnerability of the target or hit them where they're weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
+* Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
+* Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you +1d.  Maybe a higher-Tier target will give you -1d. Maybe there's a situation in the district that makes the operation more or less tricky.
 
-* **1-3 load**: **Light.** *You're faster, less conspicuous; you blend in with citizens.*
-* **4/5 load**: **Normal.** *You look like a scoundrel, ready for trouble.*
-* **6 load**: **Heavy.** *You're slower. You look like an operative on a mission.*
-* **7-9 load**: **Encumbered.** *You're overburdened and can't do anything except move very slowly.*
+The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don't need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang's lair; maneuvering to speak with a Lord at the masquerade party; etc.
 
-Some special abilities (like the **Mule** ability) increase the load limits.
+Don't make the engagement roll and then describe the PCs *approaching* the target. It's the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach—to the first serious obstacle in their path.
 
-Some items count as two items for load (they have two connected boxes). *Items in italics don't count toward your load.*
+---
 
-You don't need to select specific items now.  Review your personal items and the standard item descriptions.
+### ENGAGEMENT ROLL
+
+&#x23E3; &nbsp; **1d** for sheer luck.
+
+&#x2295; &nbsp; **+1d** for each **Major Advantage**.
+
+&#x2296; &nbsp; **-1d** for each **Major Disadvantage**.
+
+* **Critical**: Exceptional result. *You've already overcome the first obstacle and you're in a controlled position for what's next.*
+* **6**: Good result. *You're in a controlled position when the action starts.*
+* **4/5**: Mixed result. *You're in a risky position when the action starts.*
+* **1-3**: Bad result. *You're in a desperate position when the action starts.*
+
+---
+
+> The first obstacles at the witches' house are their cunning locks and magical traps. The engagement roll puts us on the roof outside a window, as the PCs attempt to silently and carefully break into the attic.
+>
+> The PCs have kicked down the door and swarmed into the front room of the gang's lair, weapons flashing, into the swirl of the melee with the first guards.
+>
+> The PCs have socialized politely at the party, maneuvering into position to have a private word with a powerful Lord. As a group of young nobles leave his side, the PCs step up and engage him in conversation.
+
+If the players want to include a special preparation or clever setup, they can do so with **flashbacks** during the score. This takes some getting used to. Players may balk at first, worried that you're skipping over important things that they want to do. But jumping straight into the action of the score is much more effective once you get used to it. When they see the situation they're in, their "planning" in flashbacks will be focused and useful, rather than merely speculations on circumstances and events that might not even happen.
+
+### Outcomes
+
+The outcome of the engagement roll determines the **position** for the PCs' initial actions when we cut to the score in progress. A **1-3** means a desperate position. A **4/5** is a risky position. A **6** yields a controlled position. And a **critical** carries the action beyond the initial obstacle, deeper into the action of the score.
+
+No matter how low-Tier or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It's designed this way so the planning process matters, but it doesn't call for lots of optimization or nitpicking. Even if you're reckless and just dive in and take your chances, you can't get too badly burned. Plus, you might even want those desperate rolls to generate more xp for the PCs, which helps to bootstrap starting characters into advancement.
+
+When you describe the situation after the roll, use the details of the target to paint a picture of the PCs' position. How might the strange, occult gang present a desperate position for burglars? How might the violent and ruthless butchers present a risky threat to assaulting thugs? How might the vain and pompous Lord present a controlled opportunity for a manipulative scoundrel? Use this opportunity to show how the PCs' enemies are dangerous and capable—don't characterize a bad engagement roll as a failure by the PCs, or they won't trust the technique in the future. Sure, things are starting out desperate here against the creepy occultists, but you're just the type of characters who are daring enough to take them on. Let's get to it.
+
+### How long does it last?
+
+The engagement roll determines the starting position for the PCs' actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the score. The engagement roll is a quick short-hand to kick things off and get the action started—it doesn't have any impact after that.
+
+## Linked Plans
+
+Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. "You create a diversion at the tavern, and when they send thugs over there, we'll break into their lair." There are two ways to handle this.
+
+1. The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. *If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don't have to sit out and wait.*
+2. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, **heat**, etc.) after the first part of the plan, as normal.
+
+Either approach is fine. It's usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
+
+## Flashbacks
+
+The rules don't distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a **Sway** roll to see how that went.
+
+The GM sets a **stress cost** when you activate a flashback action.
+
+* **0** **Stress**: An ordinary action for which you had easy opportunity. *The enforcer ***Consorted*** with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
+* **1** **Stress**: A complex action or unlikely opportunity. *The hitman ***Finessed** his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
+* **2** **(or more) Stress**: An elaborate action that involved special opportunities or contingencies. *The palm reader has already **Studied** the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
+
+After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there's some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won't call for a roll at all because you can just pay the stress and it's accomplished.
+
+If a flashback involves a **downtime** activity, pay 1 **coin** or 1 **rep** for it, instead of stress.
+
+One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you're in, you can call for a flashback to a special preparation you made, "just in case" something like this happened. This way, your "flashback planning" will be focused on the problems that *do *happen, not the problems that *might* happen.
+
+### Limits of flashbacks
+
+A flashback isn't time travel. It can't "undo" something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you're at the Lady's party, you can't call for a flashback to assassinate the Inspector the night before. She's here now, questioning you—that's established in the fiction. You *can* call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
+
+#### flashback examples
+
+> *"I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they'll go berserk and create a distraction for our infiltration."
+>
+> "Ha! Nice. Okay, that's seems a bit tricky, dealing with ornery goats and all... 1 stress."
+>
+> "Should I roll Prowl to sneak in and plant it?"
+>
+> "Nah. Their goat stable security amounts to a stable boy who is usually asleep anyway. You can easily avoid their notice."
+>
+> "So it just works?"
+>
+> "Eh... not so fast. When you want the distraction to hit, let's make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice."*
+>
+> ---
+>
+> *"The engagement roll is... a **2**. Looks like a desperate situation for you! Hmmm. Okay, so you're inside the gang's compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they're getting a delivery right now, and a bunch of gang members are out to receive it. They're about to be on top of you. What do you do?"
+>
+> "Hang on, I want to have a flashback."
+>
+> "Okay, for what?"
+>
+> "Uh. Something... helpful? Damn, I don't know what that would be. Anyone have ideas?"
+>
+> "Oh, what if you Consorted with your docker friends yesterday and they blabbed about this delivery, so we rigged it with a bomb."
+>
+> "Oh man, that's hilarious. But kind of nuts. I guess 2 stress for that?"
+>
+> "Sounds good. But let's make that Consort roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?"
+>
+> "I did it. I'll roll Tinker to set the fuse just right. Hopefully."*
+
+## Giving up on a score
+
+When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You'll usually have zero **payoff**, since you didn't accomplish anything. You'll still face **heat** and **entanglements** as usual.
+
+# Teamwork
+
+## Teamwork
+
+When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They're listed at the bottom of the character playbook sheets to help remind the players of them. The four maneuvers are:
+
+* **Assist** another PC who's rolling an action.
+* Lead a **group action**.
+* **Protect** a teammate.
+* **Set up** a character who will follow through on your action.
+
+### Assist
+
+When you assist another player who's rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. *If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
+
+A character may assist a group action, but only if they aren't taking part in it directly. You decide which character in the group action gets the bonus die.
+
+### Lead a group action
+
+When you lead a group action, you coordinate multiple members of the team to tackle a problem together. Describe how your character leads the team in a coordinated effort. Do you bark orders, give subtle hand signals, or provide charismatic inspiration?
+
+Each PC who's involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled** 1-3** as their best result.
+
+> This is how you do the "we all sneak into the building" scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It's tough covering for the stragglers.
+
+**The group action result covers everyone who rolled.** If you don't roll, your character doesn't get the effects of the action.
+
+Your character doesn't have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew's **cohorts** with a group action. Roll **Command** if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
+
+### Protect
+
+You step in to face a consequence that one of your teammates would otherwise face. **You suffer it instead of them. You may roll to resist it as normal.** Describe how you intervene.
+
+> This is how you do the "I'll dive in front of the bullet" You cover for a teammate, suffering any harm or consequences that still linger after you've rolled to resist. It hurts, cost stress, and may leave you in a bad spot. But hey, you're a hero.
+
+### Set up
+
+When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action.
+
+> This is how you do the "I'll create a distraction" scene. You roll **Sway** to distract a constable with your charms, then any teammate who follows through with a **Prowl** action to sneak past him can get improved position. It's less risky since you're drawing the guard's attention.
+
+This is a good way to contribute to an operation when you don't have a good rating in the action at hand. A clever setup action lets you help the team indirectly. Multiple follow-up actions may take advantage of your setup (including someone **leading** a group action) as long as it makes sense in the fiction.
+
+Since a setup action can increase the effect of follow-up actions, it's also useful when the team is facing tough opposition that has advantages in quality, scale, and/or potency. Even if the PCs are reduced to zero effect due to disadvantages in a situation, the setup action provides a bonus that allows for limited effect.
+
+> The PCs are facing a heavily armored carriage that's immune to their weapons. Aldo uses **Wreck** as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
+
+## Do We Have to Use Teamwork?
+
+Teamwork maneuvers are options, not requirements. Each character can still perform solo actions as normal during an operation. If your character can't communicate or somehow coordinate with the rest of the team, you can't use or benefit from any teamwork maneuvers.
+
+---
 
 # Character playbook
 
@@ -1051,214 +1264,3 @@ You may expend your **special armor** to resist a supernatural consequence, or t
 Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
 
 Some examples include: Weapons, clothes, arcane implements, specialized tools, custom gear, capable pets, or supernatural objects.
-
-# The Score
-
-> Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.
-
-In *Blades in the Dark*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
-
-A score is a single operation with a particular goal: *burgle a Lord's manor, assassinate the diplomat, smuggle a strange artifact into the city*, etc. Usually, a score will fall into one of three categories:
-
-* A **criminal activity**, determined by your crew type. An assassination, burglary, illicit vice deal, etc.
-* Seizing a **claim** that you choose from your crew's **claim map**. Claims help your crew grow and develop.
-* A **special mission** or goal determined by the players (like getting a rare artifact to empower an arcane rituals).
-
-A score can be long and involved or short and sweet. There might be lots of rolls and trouble, or just a few actions to resolve it. *Play to find out what happens!* A score doesn't need to fill one session of play every time. Let it be however long it is.
-
-The PCs can set up a new score by choosing a target (from their claims or the faction list, for example), by approaching a potential client and asking for work, or by being contacted by an NPC who needs to hire a crew for a job.
-
-A score consists of a few key elements, detailed in this chapter: **planning & engagement**, **flashbacks**, and **teamwork**.
-
-# Planning & engagement
-
-Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about the best approach, lamenting the dangers ahead, and lusting after stacks of coin.
-
-But you, the players, don't have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what **type of plan** the characters *have already made*. There's no need to sweat all the little details and try to cover every eventuality ahead of time, because the **engagement roll** (detailed in the next section) ultimately determines how much trouble you're in when the plan is put in motion. *No plan is ever perfect.* You can't account for everything. This system assumes that there's always some unknown factors and trouble—major or minor—in every operation; you just have to make the best of it.
-
-There are six different plans, each with a missing **detail** you need to provide (see the list below). To "plan an operation," simply choose the plan and supply the detail. Then the GM will **cut to the action** as the first moments of the operation unfold.
-
-* Assault - Do violence to a target. *Detail: The point of attack.*
-* Deception - Lure, trick, or manipulate. *Detail: The method of deception.*
-* Stealth - Trespass unseen. *Detail: The point of infiltration.*
-* Occult - Engage a supernatural power. *Detail: The arcane method.*
-* Social - Negotiate, bargain, or persuade. *Detail: The social connection.*
-* Transport - Carry cargo or people through danger. *Detail: The route and means.*
-
-## The Detail
-
-When you choose a plan, you provide a missing **detail**, like the point of attack, social connection, etc. If you don't know the detail, you can **gather information** in some way to discover it.
-
-## Item Loadouts
-
-After the plan and detail are in place, each player chooses their character's **load**. This indicates how much stuff they're carrying on the operation. They don't have to select individual items—just the maximum amount they'll have access to during the action.
-
-## Engagement Roll
-
-Once the players choose a plan and provide its detail, the GM cuts to the action—describing the scene as the crew starts the operation and encounters their first obstacle. But how is this established? The way the GM describes the starting situation can have a huge impact on how simple or troublesome the operation turns out to be. Rather than expecting the GM to simply "get it right" each time, we use a dice roll instead. This is the **engagement roll**.
-
-The engagement roll is a **fortune roll**, starting with **1d for sheer luck**. Modify the dice pool for any major advantages or disadvantages that apply.
-
-### Major Advantages / Disadvantages
-
-* Is this operation particularly bold or daring? Take **+1d**. Is this operation overly complex or contingent on many factors? Take **-1d**.
-* Does the **plan's detail** expose a vulnerability of the target or hit them where they're weakest? Take **+1d**. Is the target strongest against this approach, or do they have particular defenses or special preparations? Take **-1d**.
-* Can any of your **friends or contacts** provide aid or insight for this operation? Take **+1d**. Are any **enemies or rivals** interfering in the operation? Take **-1d**.
-* Are there any **other elements** that you want to consider? Maybe a lower-Tier target will give you +1d.  Maybe a higher-Tier target will give you -1d. Maybe there's a situation in the district that makes the operation more or less tricky.
-
-The engagement roll assumes that the PCs are approaching the target as intelligently as they can, given the plan and detail they provided, so we don't need to play out tentative probing maneuvers, special precautions, or other ponderous non-action. The engagement roll covers all of that. The PCs are already in action, facing the first obstacle—up on the rooftop, picking the lock on the window; kicking down the door of the rival gang's lair; maneuvering to speak with a Lord at the masquerade party; etc.
-
-Don't make the engagement roll and then describe the PCs *approaching* the target. It's the approach that the engagement roll resolves. Cut to the action that results *because of* that initial approach—to the first serious obstacle in their path.
-
----
-
-### ENGAGEMENT ROLL
-
-&#x23E3; &nbsp; **1d** for sheer luck.
-
-&#x2295; &nbsp; **+1d** for each **Major Advantage**.
-
-&#x2296; &nbsp; **-1d** for each **Major Disadvantage**.
-
-* **Critical**: Exceptional result. *You've already overcome the first obstacle and you're in a controlled position for what's next.*
-* **6**: Good result. *You're in a controlled position when the action starts.*
-* **4/5**: Mixed result. *You're in a risky position when the action starts.*
-* **1-3**: Bad result. *You're in a desperate position when the action starts.*
-
----
-
-> The first obstacles at the witches' house are their cunning locks and magical traps. The engagement roll puts us on the roof outside a window, as the PCs attempt to silently and carefully break into the attic.
->
-> The PCs have kicked down the door and swarmed into the front room of the gang's lair, weapons flashing, into the swirl of the melee with the first guards.
->
-> The PCs have socialized politely at the party, maneuvering into position to have a private word with a powerful Lord. As a group of young nobles leave his side, the PCs step up and engage him in conversation.
-
-If the players want to include a special preparation or clever setup, they can do so with **flashbacks** during the score. This takes some getting used to. Players may balk at first, worried that you're skipping over important things that they want to do. But jumping straight into the action of the score is much more effective once you get used to it. When they see the situation they're in, their "planning" in flashbacks will be focused and useful, rather than merely speculations on circumstances and events that might not even happen.
-
-### Outcomes
-
-The outcome of the engagement roll determines the **position** for the PCs' initial actions when we cut to the score in progress. A **1-3** means a desperate position. A **4/5** is a risky position. A **6** yields a controlled position. And a **critical** carries the action beyond the initial obstacle, deeper into the action of the score.
-
-No matter how low-Tier or outmatched you are, a desperate position is the worst thing that can result from the plan + detail + engagement process. It's designed this way so the planning process matters, but it doesn't call for lots of optimization or nitpicking. Even if you're reckless and just dive in and take your chances, you can't get too badly burned. Plus, you might even want those desperate rolls to generate more xp for the PCs, which helps to bootstrap starting characters into advancement.
-
-When you describe the situation after the roll, use the details of the target to paint a picture of the PCs' position. How might the strange, occult gang present a desperate position for burglars? How might the violent and ruthless butchers present a risky threat to assaulting thugs? How might the vain and pompous Lord present a controlled opportunity for a manipulative scoundrel? Use this opportunity to show how the PCs' enemies are dangerous and capable—don't characterize a bad engagement roll as a failure by the PCs, or they won't trust the technique in the future. Sure, things are starting out desperate here against the creepy occultists, but you're just the type of characters who are daring enough to take them on. Let's get to it.
-
-### How long does it last?
-
-The engagement roll determines the starting position for the PCs' actions. How long does that hold? Does the situation stay desperate? No. Once the initial actions have been resolved, you follow the normal process for establishing position for the rest of the rolls during the score. The engagement roll is a quick short-hand to kick things off and get the action started—it doesn't have any impact after that.
-
-## Linked Plans
-
-Sometimes an operation seems to call for a couple of plans linked together. A common scenario is a team that wants a two-pronged approach. "You create a diversion at the tavern, and when they send thugs over there, we'll break into their lair." There are two ways to handle this.
-
-1. The diversion is a **setup maneuver** that a team member performs as part of the plan. A successful setup maneuver can improve **position** for teammates (possibly offsetting a bad engagement roll) or give increased effect.  An unsuccessful setup maneuver might cause trouble for the second part of the plan—an easy consequence is to give the engagement roll -1d. *If it makes sense, the team member who performed the setup can drift back into the main operation and join the team later so they don't have to sit out and wait.*
-2. The diversion is its own plan, engagement, and operation, whose outcome creates the opportunity for a future plan. Use this option when the first part of the plan is required for the next part to happen at all. For example, you might execute a stealth plan to steal an artifact from the Museum of the Ancients, then later use that artifact in an occult plan to consecrate a temple for your forgotten god. In this case, you go into downtime (and payoff, **heat**, etc.) after the first part of the plan, as normal.
-
-Either approach is fine. It's usually a question of interest. Is the linked plan idea interesting enough on its own to play out moment by moment? Is it required for the second plan to make sense? If so, make it a separate operation. If not, just use a setup maneuver.
-
-## Flashbacks
-
-The rules don't distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a **Sway** roll to see how that went.
-
-The GM sets a **stress cost** when you activate a flashback action.
-
-* **0** **Stress**: An ordinary action for which you had easy opportunity. *The enforcer ***Consorted*** with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
-* **1** **Stress**: A complex action or unlikely opportunity. *The hitman ***Finessed** his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
-* **2** **(or more) Stress**: An elaborate action that involved special opportunities or contingencies. *The palm reader has already **Studied** the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
-
-After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there's some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won't call for a roll at all because you can just pay the stress and it's accomplished.
-
-If a flashback involves a **downtime** activity, pay 1 **coin** or 1 **rep** for it, instead of stress.
-
-One of the best uses for a flashback is when the **engagement roll** goes badly. After the GM describes the trouble you're in, you can call for a flashback to a special preparation you made, "just in case" something like this happened. This way, your "flashback planning" will be focused on the problems that *do *happen, not the problems that *might* happen.
-
-### Limits of flashbacks
-
-A flashback isn't time travel. It can't "undo" something that just occurred in the present moment. For instance, if an Inspector confronts you about recent thefts of occult artifacts when you're at the Lady's party, you can't call for a flashback to assassinate the Inspector the night before. She's here now, questioning you—that's established in the fiction. You *can* call for a flashback to show that you intentionally tipped off the inspector so she would confront you at the party—so you could use that opportunity to impress the Lady with your aplomb and daring.
-
-#### flashback examples
-
-> *"I want to have a flashback to earlier that night, where I sneak into the stables and feed fireweed to all their goats so they'll go berserk and create a distraction for our infiltration."
->
-> "Ha! Nice. Okay, that's seems a bit tricky, dealing with ornery goats and all... 1 stress."
->
-> "Should I roll Prowl to sneak in and plant it?"
->
-> "Nah. Their goat stable security amounts to a stable boy who is usually asleep anyway. You can easily avoid their notice."
->
-> "So it just works?"
->
-> "Eh... not so fast. When you want the distraction to hit, let's make a fortune roll to see how crazy the Fireweed Goat Maneuver gets. Three dice."*
->
-> ---
->
-> *"The engagement roll is... a **2**. Looks like a desperate situation for you! Hmmm. Okay, so you're inside the gang's compound at the docks, slipping up through the shadows next to some huge metal storage tanks. But then all the electric lights come on. The big metal warehouse door rolls open, and you hear a heavy wagon coming in through the gate. Looks like they're getting a delivery right now, and a bunch of gang members are out to receive it. They're about to be on top of you. What do you do?"
->
-> "Hang on, I want to have a flashback."
->
-> "Okay, for what?"
->
-> "Uh. Something... helpful? Damn, I don't know what that would be. Anyone have ideas?"
->
-> "Oh, what if you Consorted with your docker friends yesterday and they blabbed about this delivery, so we rigged it with a bomb."
->
-> "Oh man, that's hilarious. But kind of nuts. I guess 2 stress for that?"
->
-> "Sounds good. But let's make that Consort roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?"
->
-> "I did it. I'll roll Tinker to set the fuse just right. Hopefully."*
-
-## Giving up on a score
-
-When you give up on a score, you go into **downtime**. Follow the phases for downtime presented in the next chapter. You'll usually have zero **payoff**, since you didn't accomplish anything. You'll still face **heat** and **entanglements** as usual.
-
-# Teamwork
-
-## Teamwork
-
-When the team of PCs works together, the characters have access to four special **teamwork maneuvers**. They're listed at the bottom of the character playbook sheets to help remind the players of them. The four maneuvers are:
-
-* **Assist** another PC who's rolling an action.
-* Lead a **group action**.
-* **Protect** a teammate.
-* **Set up** a character who will follow through on your action.
-
-### Assist
-
-When you assist another player who's rolling, describe what your character does to help. Take 1 stress and give them **+1d** to their roll. You might also suffer any consequences that occur because of the roll, depending on the circumstances. Only one character may assist a given roll. *If you really want to help and someone else is already assisting, consider performing a **setup** maneuver instead.*
-
-A character may assist a group action, but only if they aren't taking part in it directly. You decide which character in the group action gets the bonus die.
-
-### Lead a group action
-
-When you lead a group action, you coordinate multiple members of the team to tackle a problem together. Describe how your character leads the team in a coordinated effort. Do you bark orders, give subtle hand signals, or provide charismatic inspiration?
-
-Each PC who's involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled** 1-3** as their best result.
-
-> This is how you do the "we all sneak into the building" scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It's tough covering for the stragglers.
-
-**The group action result covers everyone who rolled.** If you don't roll, your character doesn't get the effects of the action.
-
-Your character doesn't have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew's **cohorts** with a group action. Roll **Command** if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
-
-### Protect
-
-You step in to face a consequence that one of your teammates would otherwise face. **You suffer it instead of them. You may roll to resist it as normal.** Describe how you intervene.
-
-> This is how you do the "I'll dive in front of the bullet" You cover for a teammate, suffering any harm or consequences that still linger after you've rolled to resist. It hurts, cost stress, and may leave you in a bad spot. But hey, you're a hero.
-
-### Set up
-
-When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action.
-
-> This is how you do the "I'll create a distraction" scene. You roll **Sway** to distract a constable with your charms, then any teammate who follows through with a **Prowl** action to sneak past him can get improved position. It's less risky since you're drawing the guard's attention.
-
-This is a good way to contribute to an operation when you don't have a good rating in the action at hand. A clever setup action lets you help the team indirectly. Multiple follow-up actions may take advantage of your setup (including someone **leading** a group action) as long as it makes sense in the fiction.
-
-Since a setup action can increase the effect of follow-up actions, it's also useful when the team is facing tough opposition that has advantages in quality, scale, and/or potency. Even if the PCs are reduced to zero effect due to disadvantages in a situation, the setup action provides a bonus that allows for limited effect.
-
-> The PCs are facing a heavily armored carriage that's immune to their weapons. Aldo uses **Wreck** as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
-
-## Do We Have to Use Teamwork?
-
-Teamwork maneuvers are options, not requirements. Each character can still perform solo actions as normal during an operation. If your character can't communicate or somehow coordinate with the rest of the team, you can't use or benefit from any teamwork maneuvers.
