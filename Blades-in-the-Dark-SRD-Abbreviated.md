@@ -163,7 +163,7 @@ That's it! Your character is ready for play. When you start the first session, t
 
 **8** **Record your name, alias, and look.** Choose a name, an alias (if you use one), and jot down a few words to describe your look.
 
-### Loadout
+## Loadout
 
 You have access to all of the **items** on your character sheet. For each operation, decide what your character's **load** will be. During the operation, you may say that your character has an item on hand by checking the box for the item you want to use—up to a number of items equal to your chosen load. Your load also determines your movement speed and conspicuousness:
 
