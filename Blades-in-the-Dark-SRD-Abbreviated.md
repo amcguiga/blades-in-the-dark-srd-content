@@ -1036,6 +1036,8 @@ Teamwork maneuvers are options, not requirements. Each character can still perfo
 
 # Character playbook
 
+When making a playbook, you are creating an archetype that might fit several different scoundrels.
+
 ## STARTING ACTIONS
 
 When creating a playbook, you assign one action as the primary action and one as the secondary action. 
