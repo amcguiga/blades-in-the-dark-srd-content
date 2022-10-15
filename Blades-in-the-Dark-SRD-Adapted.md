@@ -414,7 +414,6 @@ When you narrate the action after the roll, the GM and player collaborate togeth
 
 ---
 
-
 ## Double-duty Rolls
 
 Since NPCs don't roll for their actions, an action roll does double-duty: **it resolves the action of the PC as well as any NPCs that are involved**. The single roll tells us how those actions interact and which consequences result. On a **6**, the PC wins and has their effect. On a **4/5**, it's a mix—both the PC and the NPC have their effect. On a **1-3**, the NPC wins and has their effect as a consequence on the PC.
@@ -462,11 +461,11 @@ After factors are considered and the GM has announced the effect level, a player
 This kind of trade-off isn't included in the effect factors because it's not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
 
 > *"I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola."*
-
+> 
 > *"I don't think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let's say you can get halfway across with this action, then you'll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side."*
-
+> 
 > *"I didn't realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?"*
-
+> 
 > *"Yep, sounds good to me!"*
 
 ## Consequences
