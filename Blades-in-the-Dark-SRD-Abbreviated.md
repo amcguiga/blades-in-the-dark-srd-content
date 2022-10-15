@@ -89,7 +89,17 @@ When you choose a playbook, you're choosing a set of **special abilities** (whic
 
 This is why we call them "playbooks" rather than "character classes" or "archetypes." You're selecting the set of initial action ratings and special abilities that your character has access to—but you're not defining their immutable essence or true nature. Your character will grow and change over time; who they become is part of the fun of playing the game.
 
-Once you've chosen your playbook, follow the steps below to complete your character.
+#### Play without a playbook
+
+Instead of selecting a premade playbook, you can get started by picking a primary action, secondary action, and special ability that reflect your character's specialization. 
+
+1. Choose two actions as your primary and secondary actions
+2. Pick one of the special abilities listed in the appendix.
+
+|   []()   |          |          |          |                  |
+| :------: | :------: | :------: | :------: | :--------------- |
+| &#x25CF; | &#x25CF; | &#x25CB; | &#x25CB; | PRIMARY ACTION   |
+| &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | SECONDARY ACTION |
 
 ### Choose a heritage
 
@@ -109,7 +119,7 @@ Your playbook begins with three action dots already placed. You get to add four 
 
 ### Choose a special ability
 
-Take a look at the special abilities for your playbook and choose one. If you can't decide which one to pick, go with the first one on the list—it's placed there as a good default choice.
+Pick one of the special abilities listed in the appendix.
 
 #### Special Armor
 
@@ -1048,30 +1058,11 @@ Since a setup action can increase the effect of follow-up actions, it's also use
 
 Teamwork maneuvers are options, not requirements. Each character can still perform solo actions as normal during an operation. If your character can't communicate or somehow coordinate with the rest of the team, you can't use or benefit from any teamwork maneuvers.
 
-# Character playbook
+# Appendix
 
-When making a playbook, you are creating an archetype that might fit several different scoundrels.
+## Special abilities
 
-### STARTING ACTIONS
-
-When creating a playbook, you assign one action as the primary action and one as the secondary action. 
-
-|   []()   |          |          |          |                  |
-| :------: | :------: | :------: | :------: | :--------------- |
-| &#x25CF; | &#x25CF; | &#x25CB; | &#x25CB; | PRIMARY ACTION   |
-| &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | SECONDARY ACTION |
-
----
-
-### Friends, rivals
-
-A list of five possible friends or rivals go here, along with descriptions of each. Some possibilities include: a burglar, a boxer, a con artist, a doctor, an assassin, a pharmacist, a religious official, a socialite, a city clerk, a cop, a beggar, a locksmith, a bouncer, a drug dealer, a taxi driver, a bartender, a sex worker, a fence, a prisoner, a pawn broker, a servant, a librarian, a realtor, a cook, a mechanic, a bus driver, a bodega owner.
-
-Questions can include how you know the friend, what they've done for you, what you do for them, and what kind of relationship you have.
-
-### Special abilities
-
-Choose seven special abilities for you playbook. Here are several examples.
+These special abilities reflect your character's unique expertise and allow them to "break" other rules of the game.
 
 #### Battleborn
 
@@ -1274,9 +1265,3 @@ You are immune to the terror that some supernatural entities inflict on sight. W
 You may expend your **special armor** to resist a supernatural consequence, or to **push yourself** when you contend with or employ arcane forces.
 
 > When you use this ability, tick the special armor box on your playbook sheet. If you resist a consequence, this ability negates or reduces its severity. If you use this ability to push yourself, you get one of the benefits (+1d, +1 effect, act despite severe harm) but you don't take 2 stress. Your special armor is restored at the beginning of downtime.
-
-## Character items
-
-Add a list of five distinctive items that are either Fine (+1 quality), light (reduced load), rare, or otherwise specific to this character.
-
-Some examples include: Weapons, clothes, arcane implements, specialized tools, custom gear, capable pets, or supernatural objects.
