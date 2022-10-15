@@ -817,13 +817,9 @@ You don't need to select specific items now.  Review your personal items and the
 
 # Character playbook
 
-## Short Descriptor of Character
+## STARTING ACTIONS
 
-Medium length description of the character here. Include what kind of activities they normally partake in.
-
----
-
-### STARTING ACTIONS
+When creating a playbook, you assign one action as the primary action and one as the secondary action. 
 
 |   []()   |          |          |          |                  |
 | :------: | :------: | :------: | :------: | :--------------- |
@@ -831,10 +827,6 @@ Medium length description of the character here. Include what kind of activities
 | &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | SECONDARY ACTION |
 
 ---
-
-## Starting builds
-
-
 
 ## Friends, rivals
 
