@@ -839,8 +839,6 @@ The GM can make a clock for a time-sensitive mission, to represent the window of
 
 You can make a clock that can be filled *and* emptied by events, to represent a back-and-forth situation. You might make a "Revolution!" clock that indicates when the refugees start to riot over poor treatment. Some events will tick the clock up and some will tick it down. Once it fills, the revolution begins. A tug-of-war clock is also perfect for an ongoing turf war between two crews or factions.
 
----
-
 # The Score
 
 > Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.
@@ -1049,8 +1047,6 @@ Since a setup action can increase the effect of follow-up actions, it's also use
 ### Do We Have to Use Teamwork?
 
 Teamwork maneuvers are options, not requirements. Each character can still perform solo actions as normal during an operation. If your character can't communicate or somehow coordinate with the rest of the team, you can't use or benefit from any teamwork maneuvers.
-
----
 
 # Character playbook
 
