@@ -268,6 +268,8 @@ They also have **Prowl** 1 and **Skirmish** 2.  Their **Prowess** attribute rati
 | &#x25CB; | &#x25CB; | &#x25CB; | &#x25CB; | **Consort** |
 | &#x25CF; | &#x25CB; | &#x25CB; | &#x25CB; | **Sway**    |
 
+Their **Resolve** attribute rating is 3.
+ 
 ---
 
 ### Actions
